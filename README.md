@@ -1,5 +1,5 @@
 # 💫 About Me:
-I love codeing microcontrollers like esp and arduino
+I love coding microcontrollers like esp and arduino
 
 
 # 💻 Tech Stack:
